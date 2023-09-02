@@ -1,6 +1,6 @@
 # AWS Lambda layer - tracedsp
 
-Source for a AWS Lambda layer build of a [tracedsp](https://github.com/EarthScope/tracedsp] binary.
+Source for a AWS Lambda layer build of a [tracedsp](https://github.com/EarthScope/tracedsp) binary.
 
 ## License
 Licensed under the Apache License, Version 2.0 (the "License");
